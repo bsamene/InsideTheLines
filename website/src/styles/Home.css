@@ -1,0 +1,36 @@
+
+
+
+.trio {
+    max-width: 100%;
+    margin-top: 10em;
+    width: 40em;
+}
+.overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.7); /* Adjust the alpha value to control the dimness */
+    pointer-events: none; /* Allow clicks to pass through to the video */
+  }
+
+
+.homevid-container {
+
+    position: relative;
+    max-width: 100%;
+    width: 120em;
+    margin-top: -3.35em;
+    max-height: 100%;
+
+
+
+  }
+
+  .homevid {
+    width: 100%;
+    height: auto;
+    display: block;
+  }

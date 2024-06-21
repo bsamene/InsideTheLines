@@ -1,0 +1,81 @@
+.saphal {
+    position: relative;
+    top: 3em;
+    max-width: 100%;
+    max-height: 100%;
+    width: 35em;
+    height: 25em;
+}
+
+.team-container {
+    background-color: #012169;
+    margin-top: 5em;
+    display: flex;
+  justify-content: center;
+  gap: 3em;
+
+
+}
+.matthew {
+    position: relative;
+    top: 3em;
+    max-width: 100%;
+    max-height: 100%;
+    width: 35em;
+    height: 25em;
+}
+
+.christian {
+    position: relative;
+    top: 3em;
+    max-width: 100%;
+    max-height: 100%;
+    width: 35em;
+    height: 25em;
+}
+.about-title {
+    position: relative;
+    top: 3.5em;
+
+    font-size: 5.5em;
+
+    font-family: "Apercu Mono Pro", sans-serif;
+    color: white;
+}
+
+.about-container {
+    background-color: #012169;
+    max-width: 100%;
+    max-height: 100%;
+    width: 200em;
+    height: 50em;
+    margin-top: -10em;
+
+}
+
+.trio {
+    position: relative;
+    top:10em;
+}
+
+.white-box {
+    background-color: white;
+    max-width: 100%;
+    max-height: 100%;
+    width: 200em;
+    height: 38em;
+    position: relative;
+    top: 9em;
+}
+
+.white-box-text {
+    margin-top: 2em;
+    color: #012169;
+    font-size: 1.3em;
+    margin-left: 11em;
+    font-family:'Apercu Mono Pro', sans-serif;
+    max-width: 100%;
+
+    line-height: 1.6em;
+    width: 70em;
+}

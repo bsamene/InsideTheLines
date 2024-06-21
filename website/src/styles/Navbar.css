@@ -1,0 +1,59 @@
+
+.navbar {
+
+    padding: 0 2em; /* Remove vertical padding, keep horizontal padding */
+    position: fixed;
+    top: 0;
+    margin-left: .4em;
+    max-width: 100%;
+    right: 20em;
+    width: 220em;
+    height: 6em; /* Set a fixed height for the navbar */
+    display: flex;
+    justify-content: space-between; /* Adjust spacing between logo and navbar items */
+    align-items: center; /* Center the items vertically */
+    z-index: 1000; /* Ensure the navbar is on top of other elements */
+    color: #111827;
+    margin-right: -20em;
+  }
+
+  .inside-logo {
+    position: relative;
+    right: 39em;
+    color: white;
+    font-family: "Apercu Mono Pro", sans-serif;
+    font-weight: 600;
+    font-size: 1.5em;
+    margin-right: -18em;
+  }
+  .navbar-list {
+
+    margin-left:70em;
+    list-style-type: none;
+    display: flex;
+    gap: 5em;
+    padding: 0;
+    color: white;
+  }
+
+  .navbar-link,
+  .navbar-link:visited {
+    text-decoration: none;
+    font-size: 1.3em;
+    color: white;
+    font-family: "Apercu Mono Pro", sans-serif;
+    font-weight: 600;
+  }
+
+  .navbar-link:hover {
+    color: #012169; /* Change to desired hover color */
+  }
+
+  .no-underline{
+    text-decoration: none;
+    color: white;
+  }
+  .no-underline:hover{
+    text-decoration: none;
+    color: #5985ec;
+  }
