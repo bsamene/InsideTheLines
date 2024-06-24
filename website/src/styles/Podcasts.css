@@ -9,6 +9,16 @@
 
 }
 
+.light-blue-box {
+    background-color: #5985ec;
+    z-index: 0;
+    position: relative;
+    top: -2.5em;
+    width: 200em;
+    height: 170em;
+
+}
+
 .podcasts-title {
     position: relative;
     top: 3.5em;
@@ -22,9 +32,10 @@
 .podcast-square-one {
     border-radius: .5em;
     margin-top: 32em;
-    margin-left: 10em;
+    margin-left: 16em;
     max-width: 100%;
-
+    position: relative;
+    top: 2em;
     width: 43em;
     height: 50em;
     background-color: #012169;
@@ -40,6 +51,8 @@
 }
 
 .podcast-square-two {
+    position: relative;
+    top: 2em;
     border-radius: .5em;
     margin-top: -50em;
     margin-left: 60em;
@@ -62,8 +75,8 @@
 
 .podcast-square-three {
     border-radius: .5em;
-    margin-top: 32em;
-    margin-left: 10em;
+    margin-top: 10em;
+    margin-left: 16em;
     max-width: 100%;
 
     width: 43em;
@@ -84,8 +97,8 @@
 
 .podcast-square-four {
     border-radius: .5em;
-    margin-top: 32em;
-    margin-left: 10em;
+    margin-top: -50em;
+    margin-left: 60em;
     max-width: 100%;
 
     width: 43em;
@@ -105,8 +118,8 @@
 
 .podcast-square-five {
     border-radius: .5em;
-    margin-top: 32em;
-    margin-left: 10em;
+    margin-top: 10em;
+    margin-left: 16em;
     max-width: 100%;
 
     width: 43em;
@@ -126,8 +139,8 @@
 
 .podcast-square-six {
     border-radius: .5em;
-    margin-top: 32em;
-    margin-left: 10em;
+    margin-top: -50em;
+    margin-left: 60em;
     max-width: 100%;
 
     width: 43em;

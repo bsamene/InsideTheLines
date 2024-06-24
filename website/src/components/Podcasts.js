@@ -6,7 +6,9 @@ function Podcasts() {
   return (
     <div>
       <div className = "podcasts-container">
+
       <h1 className="podcasts-title">Podcasts</h1>
+      <div className = "light-blue-box">
       <div className = "podcast-square-one">
         <img src = {podcast} className = "podcast-image-one"></img>
       </div>
@@ -24,6 +26,7 @@ function Podcasts() {
       </div>
       <div className = "podcast-square-six">
       <img src = {podcast} className = "podcast-image-six"></img>
+      </div>
       </div>
 
       </div>
