@@ -1,0 +1,146 @@
+.podcasts-container {
+    background-color: #012169;
+    max-width: 100%;
+    max-height: 100%;
+    width: 200em;
+    height: 35em;
+    margin-top: -10em;
+    z-index: -1
+
+}
+
+.podcasts-title {
+    position: relative;
+    top: 3.5em;
+
+    font-size: 5.5em;
+
+    font-family: "Apercu Mono Pro", sans-serif;
+    color: white;
+}
+
+.podcast-square-one {
+    border-radius: .5em;
+    margin-top: 32em;
+    margin-left: 10em;
+    max-width: 100%;
+
+    width: 43em;
+    height: 50em;
+    background-color: #012169;
+}
+
+.podcast-image-one {
+    border-radius: .5em;
+    position: relative;
+    top: 2.3em;
+
+    width: 39em;
+    height: 39em;
+}
+
+.podcast-square-two {
+    border-radius: .5em;
+    margin-top: -50em;
+    margin-left: 60em;
+    max-width: 100%;
+
+    width: 43em;
+    height: 50em;
+    background-color: #012169;
+}
+
+
+.podcast-image-two {
+    border-radius: .5em;
+    position: relative;
+    top: 2.3em;
+
+    width: 39em;
+    height: 39em;
+}
+
+.podcast-square-three {
+    border-radius: .5em;
+    margin-top: 32em;
+    margin-left: 10em;
+    max-width: 100%;
+
+    width: 43em;
+    height: 50em;
+    background-color: #012169;
+}
+
+
+.podcast-image-three {
+    border-radius: .5em;
+    position: relative;
+    top: 2.3em;
+
+    width: 39em;
+    height: 39em;
+}
+
+
+.podcast-square-four {
+    border-radius: .5em;
+    margin-top: 32em;
+    margin-left: 10em;
+    max-width: 100%;
+
+    width: 43em;
+    height: 50em;
+    background-color: #012169;
+}
+
+.podcast-image-four {
+    border-radius: .5em;
+    position: relative;
+    top: 2.3em;
+
+    width: 39em;
+    height: 39em;
+}
+
+
+.podcast-square-five {
+    border-radius: .5em;
+    margin-top: 32em;
+    margin-left: 10em;
+    max-width: 100%;
+
+    width: 43em;
+    height: 50em;
+    background-color: #012169;
+}
+
+.podcast-image-five {
+    border-radius: .5em;
+    position: relative;
+    top: 2.3em;
+
+    width: 39em;
+    height: 39em;
+}
+
+
+.podcast-square-six {
+    border-radius: .5em;
+    margin-top: 32em;
+    margin-left: 10em;
+    max-width: 100%;
+
+    width: 43em;
+    height: 50em;
+    background-color: #012169;
+
+}
+
+.podcast-image-six {
+    border-radius: .5em;
+    position: relative;
+    top: 2.3em;
+
+    width: 39em;
+    height: 39em;
+}
