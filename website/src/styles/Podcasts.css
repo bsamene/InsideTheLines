@@ -33,14 +33,18 @@
     position: relative;
     max-width: 100%;
     width: 120em;
-    margin-top: 20em;
-    max-height: 100%;
+    margin-top: 32em;
+    max-height: 300vh;
+
+
   }
 
   .podcast-vid {
     width: 100%;
     height: auto;
     display: block;
+
+
   }
 .podcasts-title {
     position: relative;
@@ -54,7 +58,7 @@
 
 .podcast-square-one {
     border-radius: .5em;
-    margin-top: 32em;
+    margin-top: -100em;
     margin-left: 16em;
     max-width: 100%;
     position: relative;
