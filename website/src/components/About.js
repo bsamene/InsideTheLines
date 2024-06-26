@@ -28,8 +28,7 @@ function About() {
         <div className = "saphal-square">
           <div className = "saphal-title">Co-Founder</div>
           <div className = "saphal-name">Matthew Brathwaite</div>
-          <div className = "saphal-description">Matthew Brathwaite, a passionate sports
-            enthusiast from the D.C. metro area, brings his deep love for athletics to the Inside The Lines podcast. A rising junior at Duke University, Matthew is studying public policy and economics with a keen interest in sports business for his future career. At Duke, Matthew is a youth basketball coach for Coach2Inspire, a practice player for the women’s basketball team and a former recruiting assistant for the football team. </div>
+          <div className = "saphal-description">Matthew Brathwaite, from the D.C. metro area, is a rising junior at Duke University studying public policy and economics. A former varsity baseball and basketball player, he now coaches youth basketball for Coach2Inspire, is a practice player for the women's basketball team, and was a recruiting assistant for Duke Football. Matthew’s passion for sports and career focus on sports business bring unique insights to the Inside The Lines podcast.</div>
           <a
     href="https://www.linkedin.com/in/matthew-brathwaite/"
     className="no-und"
@@ -51,7 +50,7 @@ function About() {
         <div className = "christian-square">
         <div className = "christian-title">Co-Founder</div>
           <div className = "christian-name">Saphal Joshi</div>
-          <div className = "christian-description">Tommy Alter is a producer, writer, podcast host, and co-founder of ThreeFourTwo Productions. He has produced and written for multiple shows on television, including My Next Guest with David Letterman on Netflix, Desus and Mero on Showtime, and The Shop on HBO. He was one of the founding members of the podcast network The Ringer and co-founder of the organization “More Than a Vote.” </div>
+          <div className = "christian-description">Saphal Joshi, originally from Nepal, moved to the USA at the age of 7 and has lived in Centreville, Virginia, for most of his life. He is an undergraduate student at Duke University and has been passionate about sports, especially basketball, throughout his life. Saphal is a practice player for the women's basketball team at Duke and aspires to work in the NBA.</div>
           <a
     href="https://www.linkedin.com/in/saphal-joshi-364411245/"
     className="no-und"
@@ -71,7 +70,7 @@ function About() {
         <div className = "matthew-square">
         <div className = "matthew-title">Co-Founder</div>
           <div className = "matthew-name">Christian Dunbar</div>
-          <div className = "matthew-description">Tommy Alter is a producer, writer, podcast host, and co-founder of ThreeFourTwo Productions. He has produced and written for multiple shows on television, including My Next Guest with David Letterman on Netflix, Desus and Mero on Showtime, and The Shop on HBO. He was one of the founding members of the podcast network The Ringer and co-founder of the organization “More Than a Vote.” </div>
+          <div className = "matthew-description">Christian Dunbar, from Wyncote, PA, is a rising junior at Duke University studying public policy and pursuing a certificate in innovation & entrepreneurship. A former varsity baseball player with all-league honors at Germantown Friends School, he now serves as a Scouting/Recruiting Assistant for Duke Football and is a member of the Duke Sports Business Conference. Christian aspires to become a general manager in the NFL.</div>
           <a
     href="https://www.linkedin.com/in/christianadunbar/"
     className="no-und"
