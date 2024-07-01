@@ -1,3 +1,58 @@
+.podcast-title-one {
+    position: relative;
+    top: 3.2em;
+    font-size: 1.5em;
+    max-width: 95%;
+    font-family: "Apercu Mono Pro", sans-serif;
+    color: white;
+}
+.podcast-title-two {
+    position: relative;
+    top: 3.2em;
+    font-size: 1.5em;
+    max-width: 95%;
+    font-family: "Apercu Mono Pro", sans-serif;
+    color: white;
+}
+
+.podcast-title-three {
+    position: relative;
+    top: 3.2em;
+    font-size: 1.5em;
+    max-width: 95%;
+    font-family: "Apercu Mono Pro", sans-serif;
+    color: white;
+}
+
+.podcast-title-four {
+    position: relative;
+    top: 3.2em;
+    font-size: 1.5em;
+    max-width: 95%;
+    font-family: "Apercu Mono Pro", sans-serif;
+    color: white;
+}
+
+.podcast-title-five {
+    position: relative;
+    top: 3.2em;
+    font-size: 1.5em;
+    max-width: 95%;
+    font-family: "Apercu Mono Pro", sans-serif;
+    color: white;
+}
+
+.podcast-title-six {
+    position: relative;
+    top: 3.2em;
+    font-size: 1.5em;
+    max-width: 95%;
+    font-family: "Apercu Mono Pro", sans-serif;
+    color: white;
+    
+}
+
+
 .podcasts-container {
     background-color: #012169;
     max-width: 100%;
@@ -58,7 +113,7 @@
 
 .podcast-square-one {
     border-radius: .5em;
-    margin-top: -100em;
+    margin-top: -95em;
     margin-left: 16em;
     max-width: 100%;
     position: relative;
