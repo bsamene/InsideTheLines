@@ -16,10 +16,7 @@ function Podcasts() {
 
       <h1 className="podcasts-title">Podcasts</h1>
       <div className = "background-box">
-      <div className="podcast-video-container">
-        <div className = "podcast-overlay"> </div>
-          <video src={podcastvid} className="podcast-vid" autoPlay loop muted />
-        </div>
+     
 
       <div className = "podcast-square-one">
       <Link to="/podcast/devin">

@@ -49,7 +49,7 @@
     max-width: 95%;
     font-family: "Apercu Mono Pro", sans-serif;
     color: white;
-    
+
 }
 
 
@@ -69,7 +69,7 @@
 
     z-index: 0;
     position: relative;
-    top: -2.5em;
+    top: 120em;
     width: 200em;
     height: 170em;
 }
